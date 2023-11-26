@@ -86,6 +86,7 @@ function divide() {
   calculateResult('DIVIDE');
 }
 
+
 addBtn.addEventListener('click', add);
 subtractBtn.addEventListener('click', subtract);
 multiplyBtn.addEventListener('click', multiply);
